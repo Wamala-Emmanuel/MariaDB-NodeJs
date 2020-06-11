@@ -5,6 +5,6 @@ Basic ExpressJs application that demonstrates how to connect to the database usi
 - Establishes a connection to the SQL database.
 
 ## Dependencies
-  "mariadb": "^2.4.0",
-  "express": "^4.17.1",
-   node v12.16.3,
+    "express": "^4.17.1",
+    "mariadb": "^2.4.0",
+     node v12.16.3,
